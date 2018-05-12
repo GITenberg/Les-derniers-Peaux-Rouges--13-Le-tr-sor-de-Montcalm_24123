@@ -1,0 +1,28 @@
+_repo: Les-derniers-Peaux-Rouges--13-Le-tr-sor-de-Montcalm_24123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Blanchère, Henri de
+    alias: La Blanchère, Henri Marie Pierre René Moullin de
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '26263'
+    url: http://www.gutenberg.org/2009/agents/26263
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24123'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+title: "Les derniers Peaux-Rouges\r\nLe trésor de Montcalm"
+url: http://www.gutenberg.org/ebooks/24123
